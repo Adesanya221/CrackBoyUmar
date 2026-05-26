@@ -168,7 +168,7 @@ export default function Home() {
           />
           <NewsCard
             date="MAR 2025"
-            title="PLAY — Out Now"
+            title="PLAY is Out Now"
             description="The debut single 'PLAY' with Forly P is officially out. Stream it everywhere."
             tag="Release"
           />

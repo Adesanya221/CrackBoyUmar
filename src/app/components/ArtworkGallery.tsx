@@ -17,7 +17,7 @@ const artworks: Artwork[] = [
     title: "Vinyl Soul",
     image: "/artworks/vinyl-soul.jpg",
     inspiration:
-      "A love letter to the golden age of music. The turntable sits like an altar — surrounded by stacked vinyl and warm speakers. It captures the ritual of pressing play, the crackle before the first note, and the sacred space where sound becomes feeling.",
+      "A love letter to the golden age of music. The turntable sits like an altar, surrounded by stacked vinyl and warm speakers. It captures the ritual of pressing play, the crackle before the first note, and the sacred space where sound becomes feeling.",
     span: "col-span-1 row-span-2",
   },
   {
@@ -25,7 +25,7 @@ const artworks: Artwork[] = [
     title: "Looking Up",
     image: "/artworks/looking-up.jpg",
     inspiration:
-      "Silhouettes gathered at the mouth of something vast, gazing upward at a sliver of open sky. It speaks to the idea of breaking free — finding light in confined spaces, and the courage it takes to look up when everything around you feels like walls.",
+      "Silhouettes gathered at the mouth of something vast, gazing upward at a sliver of open sky. It speaks to the idea of breaking free, finding light in confined spaces, and the courage it takes to look up when everything around you feels like walls.",
     span: "col-span-1 row-span-1",
   },
   {
@@ -33,7 +33,7 @@ const artworks: Artwork[] = [
     title: "The Gathering",
     image: "/artworks/the-gathering.jpg",
     inspiration:
-      "Rooted in tradition and community — figures in white garments and green-and-gold caps sit together in quiet reverence. One face turns to meet the viewer, a reminder that culture lives in the people who carry it, not just the stories told about them.",
+      "Rooted in tradition and community. Figures in white garments and green and gold caps sit together in quiet reverence. One face turns to meet the viewer, a reminder that culture lives in the people who carry it, not just the stories told about them.",
     span: "col-span-1 row-span-1",
   },
   {
@@ -41,7 +41,7 @@ const artworks: Artwork[] = [
     title: "The Race",
     image: "/artworks/the-race.jpg",
     inspiration:
-      "Raw determination on canvas. A man charges forward under a stormy sky while a crowd watches from the sidelines. This piece is about the hunger to prove yourself — running not from something, but toward everything you were told you couldn't reach.",
+      "Raw determination on canvas. A man charges forward under a stormy sky while a crowd watches from the sidelines. This piece is about the hunger to prove yourself, running not from something, but toward everything you were told you could never reach.",
     span: "col-span-1 row-span-2",
   },
   {
@@ -49,7 +49,7 @@ const artworks: Artwork[] = [
     title: "Two Worlds",
     image: "/artworks/two-worlds.jpg",
     inspiration:
-      "A diptych of two faces — one blue, one warm — both wide-eyed and watching. It reflects the duality of everyday life: the quiet side and the loud side, the boy and the girl, the home and the street. Two stories painted side by side, connected but different.",
+      "A diptych of two faces, one blue and one warm, both wide eyed and watching. It reflects the duality of everyday life: the quiet side and the loud side, the boy and the girl, the home and the street. Two stories painted side by side, connected but different.",
     span: "col-span-2 sm:col-span-1 row-span-1",
   },
   {
@@ -57,7 +57,7 @@ const artworks: Artwork[] = [
     title: "Still Night",
     image: "/artworks/still-night.jpg",
     inspiration:
-      "Deep blue drowns the frame as a figure rests beneath a white pillow, hands heavy at their sides. It's about the exhaustion behind the hustle — the nights where you crash hard, dreaming of what's next. Peace and pressure living in the same breath.",
+      "Deep blue drowns the frame as a figure rests beneath a white pillow, hands heavy at their sides. It is about the exhaustion behind the hustle, the nights where you crash hard, dreaming of what comes next. Peace and pressure living in the same breath.",
     span: "col-span-1 row-span-1",
   },
 ];
