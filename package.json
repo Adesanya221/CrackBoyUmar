@@ -2,15 +2,24 @@
   "name": "crackboyumar",
   "version": "0.1.0",
   "private": true,
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "server": "node app.js"
   },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
     "framer-motion": "^12.40.0",
     "next": "16.2.6",
+    "openid-client": "^5.7.0",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
